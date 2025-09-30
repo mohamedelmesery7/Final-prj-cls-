@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Task%20day%205/mlruns/894835376983574887/278e9f5b682745d39ee050f6c8b17510/artifacts
+end_time: 1759074223519
+entry_point_name: ''
+experiment_id: '894835376983574887'
+lifecycle_stage: active
+run_id: 278e9f5b682745d39ee050f6c8b17510
+run_name: trusting-conch-250
+run_uuid: 278e9f5b682745d39ee050f6c8b17510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759074212820
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,36 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "no_of_dependents",
+      "income_annum",
+      "loan_amount",
+      "loan_term",
+      "cibil_score",
+      "residential_assets_value",
+      "commercial_assets_value",
+      "luxury_assets_value",
+      "bank_asset_value",
+      "education_ Graduate",
+      "education_ Not Graduate",
+      "self_employed_ No",
+      "self_employed_ Yes"
+    ],
+    "data": [
+      [
+        3,
+        0.6122448979591837,
+        0.8613138686131386,
+        16,
+        0.9932432432432432,
+        1.1333333333333333,
+        0.0967741935483871,
+        0.7342657342657343,
+        -0.10416666666666667,
+        1,
+        0,
+        1,
+        0
+      ]
+    ]
+  }
+}

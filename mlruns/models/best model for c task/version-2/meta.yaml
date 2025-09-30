@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1759074385649
+current_stage: None
+description: ''
+last_updated_timestamp: 1759074385649
+name: best model for c task
+run_id: 278e9f5b682745d39ee050f6c8b17510
+run_link: ''
+source: file:///D:/Task%20day%205/mlruns/894835376983574887/278e9f5b682745d39ee050f6c8b17510/artifacts/RandomForest_Model
+status: READY
+status_message: null
+storage_location: file:///D:/Task%20day%205/mlruns/894835376983574887/278e9f5b682745d39ee050f6c8b17510/artifacts/RandomForest_Model
+user_id: null
+version: 2

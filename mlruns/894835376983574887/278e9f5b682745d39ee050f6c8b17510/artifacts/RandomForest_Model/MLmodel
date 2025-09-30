@@ -1,0 +1,42 @@
+artifact_path: RandomForest_Model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 2446490
+model_uuid: ac55ae3176394bd4ab770a9af87d928f
+prompts: null
+run_id: 278e9f5b682745d39ee050f6c8b17510
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "no_of_dependents", "required": true}, {"type":
+    "double", "name": "income_annum", "required": true}, {"type": "double", "name":
+    "loan_amount", "required": true}, {"type": "long", "name": "loan_term", "required":
+    true}, {"type": "double", "name": "cibil_score", "required": true}, {"type": "double",
+    "name": "residential_assets_value", "required": true}, {"type": "double", "name":
+    "commercial_assets_value", "required": true}, {"type": "double", "name": "luxury_assets_value",
+    "required": true}, {"type": "double", "name": "bank_asset_value", "required":
+    true}, {"type": "long", "name": "education_ Graduate", "required": true}, {"type":
+    "long", "name": "education_ Not Graduate", "required": true}, {"type": "long",
+    "name": "self_employed_ No", "required": true}, {"type": "long", "name": "self_employed_
+    Yes", "required": true}]'
+  outputs: '[{"type": "long", "name": "loan_status", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-09-28 15:43:33.798406'

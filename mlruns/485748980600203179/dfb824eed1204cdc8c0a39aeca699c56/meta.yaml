@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Task%20day%205/mlruns/485748980600203179/dfb824eed1204cdc8c0a39aeca699c56/artifacts
+end_time: 1759073734907
+entry_point_name: ''
+experiment_id: '485748980600203179'
+lifecycle_stage: active
+run_id: dfb824eed1204cdc8c0a39aeca699c56
+run_name: thundering-eel-381
+run_uuid: dfb824eed1204cdc8c0a39aeca699c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759073728112
+status: 3
+tags: []
+user_id: HP

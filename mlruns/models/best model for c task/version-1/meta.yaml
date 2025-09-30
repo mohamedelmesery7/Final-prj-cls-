@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1759073813672
+current_stage: Production
+description: ''
+last_updated_timestamp: 1759078624721
+name: best model for c task
+run_id: ca5c7b67926647319f011cefc5c76374
+run_link: ''
+source: file:///D:/Task%20day%205/mlruns/485748980600203179/ca5c7b67926647319f011cefc5c76374/artifacts/RandomForest/RF_no_balance
+status: READY
+status_message: null
+storage_location: file:///D:/Task%20day%205/mlruns/485748980600203179/ca5c7b67926647319f011cefc5c76374/artifacts/RandomForest/RF_no_balance
+user_id: null
+version: 1
